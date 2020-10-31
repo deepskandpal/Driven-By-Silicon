@@ -6,7 +6,7 @@
 
 ### How does it work
 
-![](/Users/deepanshu.kandpal/Documents/INTO DBS/Diagram.png)
+![Typical flow](Diagram.png)
 
 ### Services 
 
